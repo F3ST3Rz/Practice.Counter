@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-public class Score : MonoBehaviour
+public class CounterView : MonoBehaviour
 {
     [SerializeField] private TMP_Text _score;
     [SerializeField] private Counter _counter;
